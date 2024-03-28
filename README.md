@@ -1,4 +1,4 @@
-# [Project Vide](https://drive.google.com/file/d/1DO09saEbQ2UtvZNvoPXcgrfOyxGiMDxD/view?usp=sharing).
+# [Project Video](https://drive.google.com/file/d/1DO09saEbQ2UtvZNvoPXcgrfOyxGiMDxD/view?usp=sharing).
 
 # Getting Started with Create React App
 
